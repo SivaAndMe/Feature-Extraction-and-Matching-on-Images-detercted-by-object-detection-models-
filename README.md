@@ -25,3 +25,15 @@ And CSV file which has the data of selected regions(bounding boxes) of images sh
 
 <h5>Changes in feature_matcher1.py</h5>
 You can change num_of_best_matches, csvreader, csvwriter variables according to your need .
+
+
+
+![SLIDES](/images/Slide6.JPG)
+![SLIDES](/images/Slide7.JPG)
+![Problem Statement](/images/Slide8.JPG)
+![Problem Statement](/images/Slide9.JPG)
+![Problem Statement](/images/Slide10.JPG)
+![Problem Statement](/images/Slide11.JPG)
+![Problem Statement](/images/Slide12.JPG)
+![Problem Statement](/images/Slide13.JPG)
+![Problem Statement](/images/Slide14.JPG)
